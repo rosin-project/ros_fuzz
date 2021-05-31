@@ -1,3 +1,3 @@
 # ros_fuzz
 
-This will be updated shortly after the conference!
+Please check https://github.com/rosin-project/ros_fuzz
